@@ -1,5 +1,6 @@
 ### Hi there 👋
 #### Devon Nelson
+He/Him
 [Google Link](https://github.com/DevonNelso/DevonNelso/edit/main/README.md)
 ![alt text](image.jpg)
 
