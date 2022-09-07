@@ -5,14 +5,15 @@
 
 He/Him
 
-[Google Link](https://github.com/DevonNelso/DevonNelso/edit/main/README.md)
-
+🌱 I’m currently learning how to better use unity and unreal engine in a team enviroment.
+<!--[Google Link](https://github.com/DevonNelso/DevonNelso/edit/main/README.md)
+-->
 Discord - devongod#5258
 
 [Steam Profile](https://steamcommunity.com/id/steamkiddeath/) - Devongod
 
-![alt text](image.jpg)
-
+<!--![alt text](image.jpg)
+-->
 <!--
 **DevonNelso/DevonNelso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
