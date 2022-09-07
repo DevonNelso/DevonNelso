@@ -1,5 +1,8 @@
 ### Hi there 👋
-#### Devon Nelson
+#### **Devon Nelson**
+
+ 3D Artist
+
 He/Him
 
 [Google Link](https://github.com/DevonNelso/DevonNelso/edit/main/README.md)
