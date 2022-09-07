@@ -1,7 +1,13 @@
 ### Hi there 👋
 #### Devon Nelson
 He/Him
+
 [Google Link](https://github.com/DevonNelso/DevonNelso/edit/main/README.md)
+
+Discord - devongod#5258
+
+[Steam Profile](https://steamcommunity.com/id/steamkiddeath/) - Devongod
+
 ![alt text](image.jpg)
 
 <!--
