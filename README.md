@@ -14,8 +14,6 @@ He/Him
 
 Discord - devongod#5258
 
-[Steam Profile](https://steamcommunity.com/id/steamkiddeath/) - Devongod
-
 <!--![alt text](image.jpg)
 -->
 <!--
