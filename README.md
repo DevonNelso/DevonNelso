@@ -12,8 +12,6 @@ He/Him
 
 [Sketchfab](https://sketchfab.com/devongod) - Devongod
 
-Discord - devongod#5258
-
 <!--![alt text](image.jpg)
 -->
 <!--
