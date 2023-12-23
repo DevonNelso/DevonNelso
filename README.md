@@ -10,7 +10,7 @@ He/Him
 -->
 [Portfolio Website](https://devongod123.wixsite.com/devonnelsonportfolio)
 
-[Sketchfab](https://sketchfab.com/devongod) - Devongod
+[Sketchfab](https://sketchfab.com/devongod)
 
 [Artstation](https://www.artstation.com/devongod)
 
